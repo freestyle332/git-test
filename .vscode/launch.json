@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - pafseysi",
+            "request": "launch",
+            "mainClass": "pafseysi",
+            "projectName": "VS_caa2f5d"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
